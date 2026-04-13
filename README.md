@@ -47,7 +47,6 @@ Focused on backend engineering, system design & global impact 🌍
   <li>🏗 Building <b>scalable systems & enterprise-grade applications</b></li>
   <li>🤖 Working on <b>AI/ML integrated systems & intelligent automation</b></li>
   <li>📊 Strong focus on <b>backend, system design & performance optimization</b></li>
-  <li>🚀 Vice Chairperson @ IEEE</li>
   <li>🤝 Open to <b>research, collaboration & startup opportunities</b></li>
 </ul>
 

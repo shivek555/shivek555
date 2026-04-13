@@ -1,12 +1,22 @@
-<h1 align="center">Hi 👋, I'm Shivek S Mittal</h1>
-<h3 align="center">
-Full Stack Developer | MERN • Java • .NET • Cloud • AI/ML 🚀
-</h3>
+<table width="100%">
+  <tr>
+    <td align="left">
 
-<p align="center">
-I build scalable systems, AI-driven solutions, and real-world platforms.<br/>
+<h1>Hi 👋, I'm Shivek S Mittal</h1>
+<h3>Full Stack Developer | MERN • Java • .NET • Cloud • AI/ML 🚀</h3>
+
+<p>
+Building scalable systems, AI-driven solutions, and real-world platforms.<br/>
 Focused on backend engineering, system design & global impact 🌍
 </p>
+
+    </td>
+
+    <td align="right">
+      <img src="assets/bitmoji.png" width="220"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -110,6 +120,9 @@ MERN • Java • .NET • Python • AI/ML • System Design • Cloud • Back
   <p>DevOps </p>
   <a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
   <a href="https://vercel.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40"/></a>
+  <a href="https://render.com" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/38451280?s=200&v=4" width="40" height="40"/>
+</a>
 
   <p>AI/ML </p>
   <a href="https://www.tensorflow.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/></a>

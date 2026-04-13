@@ -37,12 +37,6 @@ Focused on backend engineering, system design & global impact 🌍
 
 </p>
 
-<img
-  align="right"
-  alt="coding"
-  width="380"
-  src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"
-/>
 
 ---
 
@@ -66,6 +60,12 @@ Focused on backend engineering, system design & global impact 🌍
   <li>📌 Distributed systems & scalable architecture research</li>
   <li>📌 AgriTech & real-world impact platforms</li>
 </ul>
+<img
+  align="right"
+  alt="coding"
+  width="380"
+  src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"
+/>
 
 ---
 

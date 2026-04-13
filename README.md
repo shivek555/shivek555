@@ -1,19 +1,16 @@
-<div style="display: flex; align-items: center; justify-content: center;">
+<p align="center">
+  <img src="./assets/bitmoji.png" width="320" align="right"/>
+  
+  <h1 align="center">Hi 👋, I'm Shivek S Mittal</h1>
+  <h3>
+    Full Stack Developer | MERN • Java • .NET • Cloud • AI/ML 🚀
+  </h3>
+</p>
 
-  <!-- TEXT (CENTERED) -->
-  <div style="text-align: center; flex: 1;">
-    <h1>Hi 👋, I'm Shivek S Mittal</h1>
-    <h3>
-      Full Stack Developer | MERN • Java • .NET • Cloud • AI/ML 🚀
-    </h3>
-  </div>
-
-  <!-- IMAGE (RIGHT & BIG) -->
-  <div style="flex: 0;">
-    <img src="./assets/bitmoji.png" width="320"/>
-  </div>
-
-</div>
+<p align="center">
+I build scalable systems, AI-driven solutions, and real-world platforms.<br/>
+Focused on backend engineering, system design & global impact 🌍
+</p>
 
 ---
 

@@ -1,21 +1,19 @@
-<table width="100%">
-  <tr>
-    <td align="left">
+<table>
+<tr>
+<td>
 
 <h1>Hi 👋, I'm Shivek S Mittal</h1>
-<h3>Full Stack Developer | MERN • Java • .NET • Cloud • AI/ML 🚀</h3>
-
 <p>
-Building scalable systems, AI-driven solutions, and real-world platforms.<br/>
-Focused on backend engineering, system design & global impact 🌍
+Full Stack Developer | MERN • Java • .NET • Cloud • AI/ML 🚀
 </p>
 
-    </td>
+</td>
 
-    <td align="right">
-      <img src="assets/bitmoji.png" width="220"/>
-    </td>
-  </tr>
+<td>
+<img src="assets/bitmoji.png" width="220"/>
+</td>
+
+</tr>
 </table>
 
 ---

@@ -164,10 +164,29 @@ MERN • Java • .NET • Python • AI/ML • System Design • Cloud • Back
 </p>
 
 ---
-
-
+<h3>🔬 Research Publications</h3>
+<ul>
+  <li>
+    <b>Beyond Boundaries: Unleashing 6G's Transformative Wave in India</b><br/>
+    <i>Journal of Mechanics of Continua and Mathematical Sciences</i>, Special Issue No. 11, May 2024, pp. 240–253<br/>
+    Corresponding Author: <b>Shivek S. Mittal</b><br/>
+    <a href="https://jmcms.s3.amazonaws.com/wp-content/uploads/2024/05/01104031/jmcms-spl11-2403029.pdf" target="_blank">📄 View Paper</a>
+    &nbsp;|&nbsp;
+    <a href="https://doi.org/10.26782/jmcms.spl.11/2024.05.00017" target="_blank">🔗 DOI</a>
+  </li>
+</ul>
 
 ---
+
+<h3>📜 Patent</h3>
+<ul>
+  <li>
+    <b>Public Transportation Management System</b><br/>
+    Patent File Number: <b>202511015536</b><br/>
+    Patent File Date: <b>22/02/2025</b><br/>
+    <a href="https://curin.chitkara.edu.in/patents/public-transportation-management-system/" target="_blank">📄 View Patent</a>
+  </li>
+</ul>
 
 <p align="center">
   🚀 <b>Let’s build something impactful & scalable.</b>

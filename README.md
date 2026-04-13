@@ -1,12 +1,14 @@
-<p align="center">
-  <img src="./assets/bitmoji.png" width="320" align="right"/>
-  
+
+
+<p>
   <h1 align="center">Hi 👋, I'm Shivek S Mittal</h1>
-  <h3>
+  <h3 align="center">
     Full Stack Developer | MERN • Java • .NET • Cloud • AI/ML 🚀
   </h3>
 </p>
-
+<p align="center">
+  <img src="./assets/bitmoji.png" width="320" align="right"/>
+</p>
 <p align="center">
 I build scalable systems, AI-driven solutions, and real-world platforms.<br/>
 Focused on backend engineering, system design & global impact 🌍

@@ -1,20 +1,19 @@
-<table>
-<tr>
-<td>
+<div style="display: flex; align-items: center; justify-content: center;">
 
-<h1>Hi 👋, I'm Shivek S Mittal</h1>
-<p>
-Full Stack Developer | MERN • Java • .NET • Cloud • AI/ML 🚀
-</p>
+  <!-- TEXT (CENTERED) -->
+  <div style="text-align: center; flex: 1;">
+    <h1>Hi 👋, I'm Shivek S Mittal</h1>
+    <h3>
+      Full Stack Developer | MERN • Java • .NET • Cloud • AI/ML 🚀
+    </h3>
+  </div>
 
-</td>
+  <!-- IMAGE (RIGHT & BIG) -->
+  <div style="flex: 0;">
+    <img src="./assets/bitmoji.png" width="320"/>
+  </div>
 
-<td>
-<img src="assets/bitmoji.png" width="220"/>
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
